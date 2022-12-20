@@ -53,7 +53,6 @@ export default function Home() {
             </p>
           </a>
 
-
           <a
             href="https://friendbase.tech"
             className={styles.card}
