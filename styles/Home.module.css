@@ -276,3 +276,12 @@
     transform: rotate(0deg);
   }
 }
+
+.intesports {
+  font-weight: 600;
+  margin-left: 20px;
+  font-family: 'Roboto', sans-serif;
+  font-size: 1.5rem;
+  text-shadow: 1.5rem;
+  
+}
