@@ -7,6 +7,7 @@ const inter = Inter({ subsets: ['latin'] })
 
 export default function Home() {
   return (
+    
     <>
       <Head>
         <title>IntEsports | Home</title>
